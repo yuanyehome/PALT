@@ -1,5 +1,9 @@
 # PALT: Parameter-Lite Transfer of Language Models for Knowledge Graph Completion
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/palt-parameter-lite-transfer-of-language/link-prediction-on-umls)](https://paperswithcode.com/sota/link-prediction-on-umls?p=palt-parameter-lite-transfer-of-language)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/palt-parameter-lite-transfer-of-language/link-prediction-on-wn18rr)](https://paperswithcode.com/sota/link-prediction-on-wn18rr?p=palt-parameter-lite-transfer-of-language)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/palt-parameter-lite-transfer-of-language/link-prediction-on-fb15k-237)](https://paperswithcode.com/sota/link-prediction-on-fb15k-237?p=palt-parameter-lite-transfer-of-language)
+
 ## Prepare the data
 ```bash
 cd data
