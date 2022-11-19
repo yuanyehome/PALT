@@ -1,4 +1,4 @@
-# PALT: Parameter-Lite Transfer of Language Models for Knowledge Graph Completion [Paper](https://arxiv.org/abs/2210.13715)
+# PALT: Parameter-Lite Transfer of Language Models for Knowledge Graph Completion [[Paper]](https://arxiv.org/abs/2210.13715)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/palt-parameter-lite-transfer-of-language/link-prediction-on-umls)](https://paperswithcode.com/sota/link-prediction-on-umls?p=palt-parameter-lite-transfer-of-language)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/palt-parameter-lite-transfer-of-language/link-prediction-on-wn18rr)](https://paperswithcode.com/sota/link-prediction-on-wn18rr?p=palt-parameter-lite-transfer-of-language)
